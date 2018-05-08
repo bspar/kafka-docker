@@ -7,6 +7,8 @@
 kafka-docker
 ============
 
+Modified to not use alpine as the Dockerfile base
+
 Dockerfile for [Apache Kafka](http://kafka.apache.org/)
 
 The image is available directly from [Docker Hub](https://hub.docker.com/r/wurstmeister/kafka/)
